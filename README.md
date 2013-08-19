@@ -1,4 +1,4 @@
-HubDirectTestRepo
+A Page for myself and some follows
 =================
 
-Ein repo direkt auf gitHub erstellt, inkl. Auto Python gitignore. Für Test...
+Für Test...
